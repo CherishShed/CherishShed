@@ -26,4 +26,4 @@ Eager to learn, if I don't know it today, check back tomorrow.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CherishShed&show_icons=true&locale=en&layout=compact" alt="CherishShed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CherishShed&show_icons=true&locale=en" alt="CherishShed" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CherishShed&show_icons=true&locale=en" alt="CherishShed" /></p> -->
